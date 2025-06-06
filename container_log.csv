@@ -1,0 +1,32 @@
+Timestamp,Container ID,Weight,Priority,Action
+2025-06-05 14:08:34,C001,3086,urgent,Arrived at Zone A
+2025-06-05 14:08:34,C001,3086,urgent,Moved to Zone B
+2025-06-05 14:08:35,C001,3086,urgent,Moved to Zone C
+2025-06-05 14:08:37,C001,3086,urgent,Moved to Zone D
+2025-06-05 14:08:38,C001,3086,urgent,Final delivery complete
+2025-06-05 14:08:38,C002,1482,standard,Arrived at Zone A
+2025-06-05 14:08:38,C002,1482,standard,Moved to Zone B
+2025-06-05 14:08:39,C002,1482,standard,Moved directly to Zone D
+2025-06-05 14:08:40,C002,1482,standard,Final delivery complete
+2025-06-05 14:08:40,C003,3829,standard,Arrived at Zone A
+2025-06-05 14:08:41,C003,3829,standard,Moved to Zone B
+2025-06-05 14:08:42,C003,3829,standard,Moved to Zone C
+2025-06-05 14:08:43,C003,3829,standard,Moved to Zone D
+2025-06-05 14:08:44,C003,3829,standard,Final delivery complete
+2025-06-05 14:08:44,C004,2282,standard,Arrived at Zone A
+2025-06-05 14:08:44,C004,2282,standard,Moved to Zone B
+2025-06-05 14:08:45,C004,2282,standard,Moved to Zone C
+2025-06-05 14:08:47,C004,2282,standard,Moved to Zone D
+2025-06-05 14:08:48,C004,2282,standard,Final delivery complete
+2025-06-05 14:08:48,C005,1980,urgent,Arrived at Zone A
+2025-06-05 14:08:48,C005,1980,urgent,Moved to Zone B
+2025-06-05 14:08:49,C005,1980,urgent,Moved directly to Zone D
+2025-06-05 14:08:50,C005,1980,urgent,Final delivery complete
+2025-06-05 14:11:23,C001,58,standard,Arrived at Zone A
+2025-06-05 14:11:23,C001,58,standard,Moved to Zone B
+2025-06-05 14:11:24,C001,58,standard,Moved directly to Zone D
+2025-06-05 14:11:25,C001,58,standard,Delivered
+2025-06-05 14:15:32,C008,89,urgent,Arrived at Zone A
+2025-06-05 14:15:32,C008,89,urgent,Moved to Zone B
+2025-06-05 14:15:33,C008,89,urgent,Moved directly to Zone D
+2025-06-05 14:15:34,C008,89,urgent,Delivered
